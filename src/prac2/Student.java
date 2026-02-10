@@ -1,3 +1,7 @@
+package prac2;
+
+import java.util.UUID;
+
 public class Student {
     private final UUID id;
     private final String name;

@@ -1,5 +1,7 @@
+package prac_1;
+
 public class problem_1{
-    puslic static void PrintMyName(String name){
+    public static void PrintMyName(String name){
         int width = name.length() + 2;
         String border = "+" + "-".repeat(width) + "+";
         String nameLine = "| " + name + " |";

@@ -1,8 +1,10 @@
+package prac_1;
+
 import java.util.Scanner;
 
 import java.lang.Math;
 
-public class scratch{
+public class problem_6{
     public static void calculate(String val){
         String new_val = new StringBuilder(val).reverse().toString();
         if(val.equals(new_val)){
