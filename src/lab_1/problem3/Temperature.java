@@ -1,4 +1,4 @@
-package problem3;
+package lab_1.problem3;
 
 public class Temperature {
     private double temperature;

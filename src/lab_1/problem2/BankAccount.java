@@ -1,4 +1,4 @@
-package problem2;
+package lab_1.problem2;
 
 public class BankAccount {
     private static int nextAccountNumber;
